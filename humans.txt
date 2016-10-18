@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Daniel Henderson -- Web Developer, Software Engineer -- github.com/daniel-j-henderson
 
 # THANKS
 
